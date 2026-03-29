@@ -31,7 +31,7 @@ fi
 CLUSTER_NAME="nimisha-testing-eks-cluster-ec2"
 REGION="ap-south-1"
 NODE_TYPE="t3.medium"
-K8S_VERSION="1.28"
+K8S_VERSION="1.35"
 
 # Check for required tools
 echo "Checking prerequisites..."
